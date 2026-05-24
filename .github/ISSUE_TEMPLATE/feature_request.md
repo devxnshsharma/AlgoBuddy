@@ -1,3 +1,11 @@
+---
+name: Feature Request
+about: Suggest a new feature or improvement
+title: "[FEATURE] "
+labels: type:feature
+assignees: ""
+---
+
 ## Summary
 
 A brief summary of the feature.
